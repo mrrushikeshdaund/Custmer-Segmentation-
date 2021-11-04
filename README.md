@@ -1,2 +1,2 @@
-# Custmer-Segmentation-
-machine learning in python
+# Tic_Tok_Game
+console base application
